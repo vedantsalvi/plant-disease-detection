@@ -29,3 +29,9 @@ Backend:
 
 📂 Kaggle dataset
 🏷 Annotated using Makesense.AI
+
+## TEAM MEMBERS:
+VEDANT SALVI
+GEETESH GURAM
+ROHAN KALZUNKAR
+PRANESH MORDE
