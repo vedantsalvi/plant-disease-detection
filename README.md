@@ -1,6 +1,7 @@
 # 🌱 Plant Disease Detection
 
 This project uses a deep learning model to detect plant diseases from images.
+The main motivation behind it was to encourage the use of modern technology like MV in a traditional field like Agriculture.
 
 ## 📂 Project Structure
 
@@ -30,7 +31,7 @@ Backend:
 📂 Kaggle dataset
 🏷 Annotated using Makesense.AI
 
-## TEAM MEMBERS:
+## TEAM MEMBERS/ Authors:
 VEDANT SALVI
 
 GEETESH GURAM
